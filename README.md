@@ -27,7 +27,7 @@ It combines multiple security tools into one scalable platform with a Python-bas
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/hexacore.git
+git clone https://github.com/Miertie/hexacore.git
 cd hexacore
 pip install -r requirements.txt
 python main.py
